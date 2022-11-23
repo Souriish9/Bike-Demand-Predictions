@@ -1,0 +1,8 @@
+Features to be dropped:
+- weekday
+- year
+- workingday
+- atemp
+- windspeed
+
+there's is a high auto-corelation for demand Feature
